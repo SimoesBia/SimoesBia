@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, eu sou a Bia! 🌸
 
-<!--
-**SimoesBia/SimoesBia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Técnica em Informática**  
+📚 **Graduanda em Ciência da Computação**  
+🎯 **Apaixonada pela área:** atualmente participando de bootcamps e especializações para explorar ainda mais o universo da tecnologia.
 
-Here are some ideas to get you started:
+💡 **Sobre mim:**  
+Sou movida pela curiosidade e dedicação, especialmente em desenvolvimentos, testes e tudo em que posso utilizar o aprendizado e a criatividade juntos. Quero me aprofundar em novos conhecimentos e transformar desafios em aprendizado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ **Skills & Interesses:**  
+- Programação e desenvolvimento de software  
+- Automação e soluções criativas  
+- Projetos de tecnologia e inovação  
+- Aprendizado contínuo  
+![gato](https://github.com/user-attachments/assets/ed3b61dc-9adf-49c4-90d8-f9a21ddb85c5)
+
