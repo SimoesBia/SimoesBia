@@ -5,7 +5,7 @@
 🎯 **Apaixonada pela área:** atualmente participando de bootcamps e especializações para explorar ainda mais o universo da tecnologia.
 
 💡 **Sobre mim:**  
-Sou movida pela curiosidade e dedicação, especialmente em desenvolvimentos, testes e tudo em que posso utilizar o aprendizado e a criatividade juntos. Quero me aprofundar em novos conhecimentos e transformar desafios em aprendizado.
+Sempre movida pela curiosidade e dedicação, especialmente em desenvolvimentos, testes e tudo em que posso utilizar o aprendizado e a criatividade juntos. Quero me aprofundar em novos conhecimentos e transformar desafios em aprendizado.
 
 ✨ **Skills & Interesses:**  
 - Programação e desenvolvimento de software  
