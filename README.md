@@ -12,5 +12,6 @@ Sou uma pessoa curiosa e dedicada, em constante aprendizado na área de tecnolog
 - Automação de processos e otimização de tarefas
 - Análise, organização e visualização de dados
 - Resolução de problemas e aprendizado contínuo
+  
 ![gato](https://github.com/user-attachments/assets/ed3b61dc-9adf-49c4-90d8-f9a21ddb85c5)
 
