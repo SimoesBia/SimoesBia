@@ -2,16 +2,16 @@
 
 💻 **Técnica em Informática**  
 📚 **Graduanda em Ciência da Computação**  
-🎯 **Apaixonada pela área:** atualmente participando de bootcamps e especializações para explorar ainda mais o universo da tecnologia.
+🎯 **Foco atual:** Desenvolvimento de software, automação de processos e engenharia/análise de dados.
 
 💡 **Sobre mim:**  
-Sou uma pessoa curiosa e dedicada, em constante aprendizado na área de tecnologia. Tenho interesse em soluções técnicas envolvendo desenvolvimento, automações, análises e suporte, sempre com foco em compreender problemas e gerar valor de forma prática. Busco crescimento profissional por meio da experiência e do aprendizado contínuo.
+Atualmente atuo na rotina corporativa com tratamento, extração e validação de dados e sistemas (ETL e ERP). No meu dia a dia técnico e em projetos independentes, construo soluções utilizando Python, FastAPI, SQL, C# e JavaScript, além de aplicar testes automatizados (Selenium). Busco evolução contínua para transformar problemas complexos em produtos e experiências digitais eficientes.
 
-✨ **Skills & Interesses:**  
-- Programação e desenvolvimento de soluções
-- Automação de processos e otimização de tarefas
-- Análise, organização e visualização de dados
-- Resolução de problemas e aprendizado contínuo
+🛠️ **Stack & Tecnologias:**
+- **Linguagens:** Python, Java, JavaScript, SQL
+- **Backend & Web:** FastAPI, APIs REST, HTML, CSS, React, TypeScript, Node.js
+- **Banco de Dados & Automação:** MySQL, SQLite, Selenium WebDriver
+- **Ferramentas:** Git, GitHub, VS Code
   
 ![gato](https://github.com/user-attachments/assets/ed3b61dc-9adf-49c4-90d8-f9a21ddb85c5)
 
