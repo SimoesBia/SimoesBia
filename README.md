@@ -1,17 +1,49 @@
-## Olá, eu sou a Bia! 🌸
+# Olá, eu sou a Bia! 🌸
 
-💻 **Técnica em Informática**  
-📚 **Graduanda em Ciência da Computação**  
-🎯 **Foco atual:** Desenvolvimento de software, automação de processos e engenharia/análise de dados.
+**Desenvolvedora em formação | Ciência da Computação | Software, Automação, IA & Dados**
 
-💡 **Sobre mim:**  
-Atualmente atuo na rotina corporativa com tratamento, extração e validação de dados e sistemas (ETL e ERP). No meu dia a dia técnico e em projetos independentes, construo soluções utilizando Python, FastAPI, SQL, C# e JavaScript, além de aplicar testes automatizados (Selenium). Busco evolução contínua para transformar problemas complexos em produtos e experiências digitais eficientes.
+💻 Técnica em Informática, formada pelo SENAI  
+🎓 Graduanda em Ciência da Computação  
+📍 Pernambuco, Brasil
 
-🛠️ **Stack & Tecnologias:**
-- **Linguagens:** Python, Java, JavaScript, SQL
-- **Backend & Web:** FastAPI, APIs REST, HTML, CSS, React, TypeScript, Node.js
-- **Banco de Dados & Automação:** MySQL, SQLite, Selenium WebDriver
-- **Ferramentas:** Git, GitHub, VS Code
+### 💜 Sobre mim
+
+Sou apaixonada por tecnologia e por transformar ideias em soluções que realmente funcionam.
+
+Tenho experiência profissional com **sistemas ERP, tratamento e validação de dados, consultas SQL e suporte técnico**, além de desenvolver projetos que envolvem aplicações web, APIs REST, automação de processos e engenharia de dados.
+
+Gosto de participar de diferentes etapas do desenvolvimento, desde a estruturação da lógica e dos dados até a construção de interfaces e a entrega de aplicações funcionais. Um dos meus projetos, inclusive, é um **sistema de gestão escolar utilizado por uma instituição real**, para o qual continuo oferecendo suporte e melhorias.
+
+Atualmente, busco uma oportunidade de estágio em tecnologia para aprofundar meus conhecimentos, colaborar com equipes de desenvolvimento e continuar construindo soluções com impacto real.
+
+### 🛠️ Tecnologias & Ferramentas
+
+**Linguagens:** Python · JavaScript · TypeScript · Java · C# · SQL
+
+**Desenvolvimento:** React · Angular · Ionic · FastAPI · APIs REST · HTML · CSS · .NET
+
+**Dados & Automação:** Pandas · MySQL · SQLite · Supabase · Selenium · ETL
+
+**Ferramentas:** Git · GitHub · Docker · VS Code · Vercel · Pytest
+
+### 🚀 Projetos em destaque
+
+- **Lily Tasks** — Assistente de produtividade com Python, FastAPI, SQLite e recuperação de informações com BM25.
+- **Gestão Escolar** — Sistema full stack utilizado por uma instituição de ensino, com gestão de alunos, matrículas e rotinas financeiras. *Código privado.*
+- **Court of Books** — Aplicativo de clube do livro desenvolvido com Ionic, Angular e Supabase.
+- **House Price Prediction** — Pipeline de Machine Learning com scikit-learn e API REST para previsões.
+- **Product Data Pipeline** — Web scraping, processamento de dados e API REST com FastAPI e SQLite.
+- **Customer Messaging ETL** — Pipeline de validação, transformação e proteção de dados com Python e Pandas.
+
+### 🌐 Conheça meu trabalho
+
+💜 **[Meu portfólio](https://portfolio-beatriz-simoes.vercel.app/)**
+
+💼 **[LinkedIn](https://www.linkedin.com/in/beatriz-sim%C3%B5es0208/)**
+
+📂 **[Repositórios no GitHub](https://github.com/SimoesBia?tab=repositories)**
+
+---
   
 ![gato](https://github.com/user-attachments/assets/ed3b61dc-9adf-49c4-90d8-f9a21ddb85c5)
 
