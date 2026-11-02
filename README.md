@@ -42,8 +42,6 @@ Atualmente, busco uma oportunidade de estágio em tecnologia para aprofundar meu
 💼 **[LinkedIn](https://www.linkedin.com/in/beatriz-sim%C3%B5es0208/)**
 
 📂 **[Repositórios no GitHub](https://github.com/SimoesBia?tab=repositories)**
-
----
   
 ![gato](https://github.com/user-attachments/assets/ed3b61dc-9adf-49c4-90d8-f9a21ddb85c5)
 
