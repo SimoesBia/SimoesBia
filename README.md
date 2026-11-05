@@ -1,6 +1,6 @@
 # Olá, eu sou a Bia! 🌸
 
-**Desenvolvedora em formação | Ciência da Computação | Software, Automação, IA & Dados**
+**Ciência da Computação | Desenvolvimento | Software, Automação, IA & Dados**
 
 💻 Técnica em Informática, formada pelo SENAI  
 🎓 Graduanda em Ciência da Computação  
